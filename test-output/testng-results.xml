@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4205" started-at="2021-03-16T15:31:05Z" finished-at="2021-03-16T15:31:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4205" started-at="2021-03-16T15:31:05Z" finished-at="2021-03-16T15:31:09Z">
+      <class name="org.jaganHotel.jaganIsLoging">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.jaganHotel.jaganIsLoging@604ed9f0]" name="beforeClass" is-config="true" duration-ms="1686" started-at="2021-03-16T15:31:05Z" finished-at="2021-03-16T15:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.jaganHotel.jaganIsLoging@604ed9f0]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2021-03-16T15:31:07Z" finished-at="2021-03-16T15:31:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.jaganHotel.jaganIsLoging@604ed9f0]" name="test1" duration-ms="2504" started-at="2021-03-16T15:31:07Z" finished-at="2021-03-16T15:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:org.jaganHotel.jaganIsLoging@604ed9f0]" name="aftermethod" is-config="true" duration-ms="1" started-at="2021-03-16T15:31:09Z" finished-at="2021-03-16T15:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.jaganHotel.jaganIsLoging@604ed9f0]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-03-16T15:31:09Z" finished-at="2021-03-16T15:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.jaganHotel.jaganIsLoging -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
